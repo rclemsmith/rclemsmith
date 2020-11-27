@@ -1,22 +1,8 @@
-### Hi there 👋
 
-<!--
-**rclemsmith/rclemsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hey there 👋  
-Checkout my website : [rclemsmith.me](https://rclemsmith.me)    
-You can connect with me here : [![Linkedin: rclemsmith](https://img.shields.io/badge/-dhinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dh1n3sh/)](https://www.linkedin.com/in/clement-smith-460842181/)  
-[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=rclemsmith)](https://github.com/rclemsmith/github-readme-stats)(https://github.com/rclemsmith)  
-![Top Langs](https://github-readme-stats.dh1n3sh.vercel.app/api/top-langs/?username=dh1n3sh&theme=radical&layout=compact)
+My Portfolio : [rclemsmith.me](https://rclemsmith.me)    
+You can connect with me here : [![Linkedin: rclemsmith](https://img.shields.io/badge/-Clement-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clement-smith-460842181/)](https://www.linkedin.com/in/clement-smith-460842181/)  
+[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=rclemsmith&theme=dark&count_private=true)](https://github.com/rclemsmith/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rclemsmith&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
